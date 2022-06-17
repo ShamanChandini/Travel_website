@@ -1,6 +1,6 @@
 # Travel_website
 
-The Online Travel and Tour management System Project was built for my pre-final year college project. 
+The Online Travel and Tour Website Project was built for my pre-final year college Web-Technology project. 
 
 
 
@@ -9,7 +9,7 @@ The Online Travel and Tour management System Project was built for my pre-final 
 
 **Client:** HTML, CSS , JAVA SCRIPT, PHP
 
-**Server:** PhpMyAadmin ( XAMPP ), MySQL Database
+**Server:** phpmyadmin ( XAMPP ), MySQL Database
 
 ## Environment Variables
 
@@ -31,4 +31,4 @@ Create a new database naming "travel_website".
 
 Import the provided SQL file.
 
-Browse the Travel and Tour Website in a browser. i.e. http://localhost/Travel
+Browse the Travel and Tour Website in a browser. i.e. http://localhost/travel-website
