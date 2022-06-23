@@ -32,10 +32,15 @@ Create a new database naming "travel_website".
 Import the provided SQL file.
 
 Browse the Travel and Tour Website in a browser. i.e. http://localhost/travel-website
+
 Make sure ``XAMPP`` server is running behind and turn on the modules ``MySQl`` and ``Apache``
+
 To view your home page enter : http://localhost/travel-website/home.html
+
 To view your about page enter : http://localhost/travel-website/about.html
+
 To view your package page enter : http://localhost/travel-website/package.html
+
 To view your booking page enter : http://localhost/travel-website/book.html
 
 
