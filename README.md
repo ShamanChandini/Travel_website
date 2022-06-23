@@ -21,17 +21,25 @@ Download and Install any local web server such as `XAMPP/WAMP.`
 
 Installation/Setup
 
-Open your `XAMPP/WAMP's` Control Panel and start the `"Apache"` and `"MySQL".`
+Open your `XAMPP` Control Panel and start the `"Apache"` and `"MySQL".`
 
-If you are using XAMPP, after completion of your source code save it into the `XAMPP's "htdocs"` directory. 
+As you're using XAMPP, after completion of your source code save it in the directory of `XAMPP's "htdocs"` directory. 
 
-Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Browse the PhpMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 
 Create a new database naming "travel_website".
 
 Import the provided SQL file.
 
 Browse the Travel and Tour Website in a browser. i.e. http://localhost/travel-website
+Make sure ``XAMPP`` server is running behind and turn on the modules ``MySQl`` and ``Apache``
+To view your home page enter : http://localhost/travel-website/home.html
+To view your about page enter : http://localhost/travel-website/about.html
+To view your package page enter : http://localhost/travel-website/package.html
+To view your booking page enter : http://localhost/travel-website/book.html
+
+
+
 
 ## 🔗 Links
 
