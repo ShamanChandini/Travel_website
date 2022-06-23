@@ -1,4 +1,7 @@
 # Travel_website
+https://shamanchandini.github.io/Travel_website/home.html
+
+https://shamanchandini.github.io/Travel_website/
 
 The Online Travel and Tour Website Project was built for my pre-final year college Web-Technology project. 
 
